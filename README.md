@@ -1,5 +1,5 @@
 [![Hackathons](https://img.shields.io/badge/Hackathons-Active-brightgreen?style=flat-square)](#)
-[![Followers](https://img.shields.io/github/followers/jordansalagala?label=Followers&style=flat-square)](https://github.com/jordansalagala)
+[![Followers](https://img.shields.io/github/followers/jordansalagala?label=Followers&style=flat-square&cacheSeconds=300)](https://github.com/jordansalagala)
 
 ## About
 
